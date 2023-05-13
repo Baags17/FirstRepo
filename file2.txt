@@ -1,0 +1,3 @@
+ECHO is on.
+2nd stash
+2nd file in master
