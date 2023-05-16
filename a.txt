@@ -1,2 +1,3 @@
 LINE 1 in master
 LINE 2 in MConf
+LINE 3 in MConf
