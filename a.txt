@@ -1,1 +1,2 @@
 LINE 1 in master
+LINE 2 in MConf
