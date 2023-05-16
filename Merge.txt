@@ -1,1 +1,1 @@
-Line is modified for merge in master.
+Line is modified for merge in branch.
