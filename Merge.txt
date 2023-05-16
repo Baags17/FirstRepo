@@ -1,1 +1,2 @@
 Line is modified for merge in branch.
+Checkout to previous id causing change in words (master -> branch)
